@@ -78,7 +78,7 @@ int main(void)
         vert2d vert = { 0.0, -1.0 };
 
         tree.Draw(start, initial_factor, 0.0);
-        glfwSetWindowTitle(window, ("OpenGL Fractal Trees    I    " + std::to_string(tree.info.fps) + " FPS").c_str());
+        glfwSetWindowTitle(window, ("OpenGL Fractal Trees2    I    " + std::to_string(tree.info.fps) + " FPS").c_str());
 
         /* Swap front and back buffers */
         glfwSwapBuffers(window);
