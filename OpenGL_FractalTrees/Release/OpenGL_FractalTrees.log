@@ -1,0 +1,14 @@
+﻿  main.cpp
+f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\fractaltree.h(8): warning C4305: инициализация: усечение из "double" в "GLfloat"
+f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(65): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(66): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(71): warning C4305: *=: усечение из "double" в "GLfloat"
+f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(73): warning C4305: *=: усечение из "double" в "GLfloat"
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  Создание кода
+  0 of 111 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "F:\dev\repos\OpenGL_FractalTrees\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  OpenGL_FractalTrees.vcxproj -> F:\dev\repos\OpenGL_FractalTrees\Release\OpenGL_FractalTrees.exe
