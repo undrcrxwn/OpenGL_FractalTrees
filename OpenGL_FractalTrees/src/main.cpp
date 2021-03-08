@@ -4,13 +4,6 @@
 #include <string>
 #include "FractalTree.h"
 
-//         Welcome to the basic OpenGL
-//            GLEW & GLFW project!
-//
-//   Make sure you've got Dependencies folder 
-//       in your solution directory to be
-//             ready for creating.
-
 int main(void)
 {
     GLFWwindow* window;

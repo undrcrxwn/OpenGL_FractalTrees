@@ -1,8 +1,0 @@
-﻿  main.cpp
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\fractaltree.h(8): warning C4305: инициализация: усечение из "double" в "GLfloat"
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(49): warning C4305: аргумент: усечение из "double" в "GLfloat"
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(66): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(67): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(72): warning C4305: *=: усечение из "double" в "GLfloat"
-f:\dev\repos\opengl_fractaltrees\opengl_fractaltrees\src\main.cpp(74): warning C4305: *=: усечение из "double" в "GLfloat"
-  OpenGL_FractalTrees.vcxproj -> F:\dev\repos\OpenGL_FractalTrees\Debug\OpenGL_FractalTrees.exe
